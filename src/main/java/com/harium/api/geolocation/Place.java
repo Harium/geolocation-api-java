@@ -2,11 +2,11 @@ package com.harium.api.geolocation;
 
 public class Place {
 
-    String country;
-    String region;
-    String city;
-    String zipCode;
-    String latitude;
-    String longitude;
+    public String country;
+    public String region;
+    public String city;
+    public String zipCode;
+    public String latitude;
+    public String longitude;
 
 }
